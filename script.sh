@@ -37,4 +37,4 @@ sudo cp -r projeto3/* /usr/share/nginx/html/
 
 #8º Reiniciar o sistema
 sudo systemctl restart nginx.service
-echo "Sistema reiniciado, por favor checar a página!
+echo "Sistema reiniciado, por favor checar a página!"
